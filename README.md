@@ -1,4 +1,6 @@
 ## Hi there 👋
+## En construcción ![trabajo-en-progreso](https://github.com/user-attachments/assets/b05b7998-72af-41b1-9cf8-a399b2a83fc3)
+
 
 <!--
 **JF3Palacios/JF3Palacios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
