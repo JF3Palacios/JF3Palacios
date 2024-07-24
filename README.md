@@ -1,5 +1,4 @@
-## Hi there 👋
-## En construcción ![trabajo-en-progreso](https://github.com/user-attachments/assets/b05b7998-72af-41b1-9cf8-a399b2a83fc3)
+ ![trabajo-en-progreso](https://github.com/user-attachments/assets/b05b7998-72af-41b1-9cf8-a399b2a83fc3)
 
 
 <!--
